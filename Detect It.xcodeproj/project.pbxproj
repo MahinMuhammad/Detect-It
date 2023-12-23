@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		00BAA7C82B35FBE0006DCB3D /* Sea Foody.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sea Foody.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00BAA7C82B35FBE0006DCB3D /* Detect It.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Detect It.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		00BAA7CB2B35FBE0006DCB3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00BAA7CD2B35FBE0006DCB3D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		00BAA7CF2B35FBE0006DCB3D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,7 +42,7 @@
 		00BAA7BF2B35FBE0006DCB3D = {
 			isa = PBXGroup;
 			children = (
-				00BAA7CA2B35FBE0006DCB3D /* Sea Foody */,
+				00BAA7CA2B35FBE0006DCB3D /* Detect It */,
 				00BAA7C92B35FBE0006DCB3D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -50,12 +50,12 @@
 		00BAA7C92B35FBE0006DCB3D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				00BAA7C82B35FBE0006DCB3D /* Sea Foody.app */,
+				00BAA7C82B35FBE0006DCB3D /* Detect It.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		00BAA7CA2B35FBE0006DCB3D /* Sea Foody */ = {
+		00BAA7CA2B35FBE0006DCB3D /* Detect It */ = {
 			isa = PBXGroup;
 			children = (
 				00BAA7CB2B35FBE0006DCB3D /* AppDelegate.swift */,
@@ -66,7 +66,7 @@
 				00BAA7D42B35FBE1006DCB3D /* Assets.xcassets */,
 				00BAA7D92B35FBE1006DCB3D /* Info.plist */,
 			);
-			path = "Sea Foody";
+			path = "Detect It";
 			sourceTree = "<group>";
 		};
 		00BAA7DF2B35FC64006DCB3D /* Model */ = {
@@ -97,9 +97,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00BAA7C72B35FBE0006DCB3D /* Sea Foody */ = {
+		00BAA7C72B35FBE0006DCB3D /* Detect It */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00BAA7DC2B35FBE1006DCB3D /* Build configuration list for PBXNativeTarget "Sea Foody" */;
+			buildConfigurationList = 00BAA7DC2B35FBE1006DCB3D /* Build configuration list for PBXNativeTarget "Detect It" */;
 			buildPhases = (
 				00BAA7C42B35FBE0006DCB3D /* Sources */,
 				00BAA7C52B35FBE0006DCB3D /* Frameworks */,
@@ -109,9 +109,9 @@
 			);
 			dependencies = (
 			);
-			name = "Sea Foody";
+			name = "Detect It";
 			productName = "Sea Foody";
-			productReference = 00BAA7C82B35FBE0006DCB3D /* Sea Foody.app */;
+			productReference = 00BAA7C82B35FBE0006DCB3D /* Detect It.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -129,7 +129,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 00BAA7C32B35FBE0006DCB3D /* Build configuration list for PBXProject "Sea Foody" */;
+			buildConfigurationList = 00BAA7C32B35FBE0006DCB3D /* Build configuration list for PBXProject "Detect It" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -142,7 +142,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				00BAA7C72B35FBE0006DCB3D /* Sea Foody */,
+				00BAA7C72B35FBE0006DCB3D /* Detect It */,
 			);
 		};
 /* End PBXProject section */
@@ -322,7 +322,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JTC82K5425;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Sea Foody/Info.plist";
+				INFOPLIST_FILE = "Detect It/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -334,7 +334,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "app.mahin.Sea-Foody";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.mahin.Detect-It";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -351,7 +351,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = JTC82K5425;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Sea Foody/Info.plist";
+				INFOPLIST_FILE = "Detect It/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -363,7 +363,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "app.mahin.Sea-Foody";
+				PRODUCT_BUNDLE_IDENTIFIER = "app.mahin.Detect-It";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -374,7 +374,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00BAA7C32B35FBE0006DCB3D /* Build configuration list for PBXProject "Sea Foody" */ = {
+		00BAA7C32B35FBE0006DCB3D /* Build configuration list for PBXProject "Detect It" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00BAA7DA2B35FBE1006DCB3D /* Debug */,
@@ -383,7 +383,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		00BAA7DC2B35FBE1006DCB3D /* Build configuration list for PBXNativeTarget "Sea Foody" */ = {
+		00BAA7DC2B35FBE1006DCB3D /* Build configuration list for PBXNativeTarget "Detect It" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00BAA7DD2B35FBE1006DCB3D /* Debug */,
